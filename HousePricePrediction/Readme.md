@@ -1,0 +1,1 @@
+<embed src="HousePricePrediction/hosepricepredicton.pdf" width="800px" height="2100px" />
